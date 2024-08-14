@@ -1,0 +1,622 @@
+[
+    {
+        "name": "Americká",
+        "id": "americka",
+        "category": "1"
+    },
+    {
+        "name": "Asijská",
+        "id": "asijska",
+        "category": "1"
+    },
+    {
+        "name": "Česká",
+        "id": "ceska",
+        "category": "1"
+    },
+    {
+        "name": "Italská",
+        "id": "italska",
+        "category": "1"
+    },
+    {
+        "name": "Mexická",
+        "id": "mexicka",
+        "category": "1"
+    },
+    {
+        "name": "Ostatní",
+        "id": "ostatni",
+        "category": "1"
+    },
+    {
+        "name": "Hovězí",
+        "id": "hovezi",
+        "category": "2"
+    },
+    {
+        "name": "Kuřecí",
+        "id": "kureci",
+        "category": "2"
+    },
+    {
+        "name": "Vepřové",
+        "id": "veprove",
+        "category": "2"
+    },
+    {
+        "name": "Ryby",
+        "id": "ryby",
+        "category": "2"
+    },
+    {
+        "name": "Mořské plody",
+        "id": "morske-plody",
+        "category": "2"
+    },
+    {
+        "name": "Párky/klobásy",
+        "id": "parky-klobasy",
+        "category": "2"
+    },
+    {
+        "name": "Ostatní drůbež",
+        "id": "drubez",
+        "category": "2"
+    },
+    {
+        "name": "Salám",
+        "id": "salam",
+        "category": "2"
+    },
+    {
+        "name": "Slanina",
+        "id": "slanina",
+        "category": "2"
+    },
+    {
+        "name": "Šunka",
+        "id": "sunka",
+        "category": "2"
+    },
+    {
+        "name": "Bezmasé",
+        "id": "bezmase",
+        "category": "2"
+    },
+    {
+        "name": "Avokádo",
+        "id": "avokado",
+        "category": "3"
+    },
+    {
+        "name": "Brokolice",
+        "id": "brokolice",
+        "category": "3"
+    },
+    {
+        "name": "Cibule",
+        "id": "cibule",
+        "category": "3"
+    },
+    {
+        "name": "Cuketa",
+        "id": "cuketa",
+        "category": "3"
+    },
+    {
+        "name": "Česnek",
+        "id": "cesnek",
+        "category": "3"
+    },
+    {
+        "name": "Dýně",
+        "id": "dyne",
+        "category": "3"
+    },
+    {
+        "name": "Fazole",
+        "id": "fazole",
+        "category": "3"
+    },
+    {
+        "name": "Hrášek",
+        "id": "hrasek",
+        "category": "3"
+    },
+    {
+        "name": "Květák",
+        "id": "kvetak",
+        "category": "3"
+    },
+    {
+        "name": "Jarní cibulka",
+        "id": "jarni-cibulka",
+        "category": "3"
+    },
+    {
+        "name": "Lilek",
+        "id": "lilek",
+        "category": "3"
+    },
+    {
+        "name": "Kapary",
+        "id": "kapary",
+        "category": "3"
+    },
+    {
+        "name": "Kukuřice",
+        "id": "kukurice",
+        "category": "3"
+    },
+    {
+        "name": "Kyselé okurky",
+        "id": "kysele-okurky",
+        "category": "3"
+    },
+    {
+        "name": "Křen",
+        "id": "kren",
+        "category": "3"
+    },
+    {
+        "name": "Mrkev",
+        "id": "mrkev",
+        "category": "3"
+    },
+    {
+        "name": "Okurka",
+        "id": "okurka",
+        "category": "3"
+    },
+    {
+        "name": "Olivy",
+        "id": "olivy",
+        "category": "3"
+    },
+    {
+        "name": "Paprika",
+        "id": "paprika",
+        "category": "3"
+    },
+    {
+        "name": "Rajčata",
+        "id": "rajcata",
+        "category": "3"
+    },
+    {
+        "name": "Rukola",
+        "id": "rukola",
+        "category": "3"
+    },
+    {
+        "name": "Ředkev",
+        "id": "redkev",
+        "category": "3"
+    },
+    {
+        "name": "Salát",
+        "id": "salat",
+        "category": "3"
+    },
+    {
+        "name": "Špenát",
+        "id": "spenat",
+        "category": "3"
+    },
+    {
+        "name": "Zázvor",
+        "id": "zazvor",
+        "category": "3"
+    },
+    {
+        "name": "Zelí",
+        "id": "zeli",
+        "category": "3"
+    },
+    {
+        "name": "Arašídové máslo",
+        "id": "arasidove",
+        "category": "4"
+    },
+    {
+        "name": "Bageta",
+        "id": "bageta",
+        "category": "4"
+    },
+    {
+        "name": "Brambory",
+        "id": "brambory",
+        "category": "4"
+    },
+    {
+        "name": "Burgerová houska",
+        "id": "burger-houska",
+        "category": "4"
+    },
+    {
+        "name": "Chleba",
+        "id": "chleba",
+        "category": "4"
+    },
+    {
+        "name": "Čočka",
+        "id": "cocka",
+        "category": "4"
+    },
+    {
+        "name": "Hranolky",
+        "id": "hranolky",
+        "category": "4"
+    },
+    {
+        "name": "Jogurt",
+        "id": "jogurt",
+        "category": "4"
+    },
+    {
+        "name": "Koňak",
+        "id": "konak",
+        "category": "4"
+    },
+    {
+        "name": "Máslo",
+        "id": "maslo",
+        "category": "4"
+    },
+    {
+        "name": "Mouka",
+        "id": "mouka",
+        "category": "4"
+    },
+    {
+        "name": "Mléko",
+        "id": "mleko",
+        "category": "4"
+    },
+    {
+        "name": "Neutrální olej",
+        "id": "neutralni-olej",
+        "category": "4"
+    },
+    {
+        "name": "Noky",
+        "id": "noky",
+        "category": "4"
+    },
+    {
+        "name": "Nori řasa",
+        "id": "nori",
+        "category": "4"
+    },
+    {
+        "name": "Nudle",
+        "id": "nudle",
+        "category": "4"
+    },
+    {
+        "name": "Ocet",
+        "id": "ocet",
+        "category": "4"
+    },
+    {
+        "name": "Olivový olej",
+        "id": "olivovy-olej",
+        "category": "4"
+    },
+    {
+        "name": "Ovesné vločky",
+        "id": "ovesne-vlocky",
+        "category": "4"
+    },
+    {
+        "name": "Pivo",
+        "id": "pivo",
+        "category": "4"
+    },
+    {
+        "name": "Protein",
+        "id": "protein",
+        "category": "4"
+    },
+    {
+        "name": "Rýže",
+        "id": "ryze",
+        "category": "4"
+    },
+    {
+        "name": "Rýžové nudle",
+        "id": "ryzove-nudle",
+        "category": "4"
+    },
+    {
+        "name": "Rýžový papír",
+        "id": "ryzovy-papir",
+        "category": "4"
+    },
+    {
+        "name": "Škrob",
+        "id": "skrob",
+        "category": "4"
+    },
+    {
+        "name": "Smetana",
+        "id": "smetana",
+        "category": "4"
+    },
+    {
+        "name": "Sušenky",
+        "id": "susenky",
+        "category": "4"
+    },
+    {
+        "name": "Strouhánka",
+        "id": "strouhanka",
+        "category": "4"
+    },
+    {
+        "name": "Těstoviny",
+        "id": "testoviny",
+        "category": "4"
+    },
+    {
+        "name": "Tortilla",
+        "id": "tortilla",
+        "category": "4"
+    },
+    {
+        "name": "Tvaroh",
+        "id": "tvaroh",
+        "category": "4"
+    },
+    {
+        "name": "Udon nudle",
+        "id": "udon-nudle",
+        "category": "4"
+    },
+    {
+        "name": "Vejce",
+        "id": "vejce",
+        "category": "4"
+    },
+    {
+        "name": "Víno",
+        "id": "vino",
+        "category": "4"
+    },
+    {
+        "name": "Vodka",
+        "id": "vodka",
+        "category": "4"
+    },
+    {
+        "name": "Vývar",
+        "id": "vyvar",
+        "category": "4"
+    },
+    {
+        "name": "Zakysaná smetana",
+        "id": "zakysana-smetana",
+        "category": "4"
+    },
+    {
+        "name": "Bazalka",
+        "id": "bazalka",
+        "category": "5"
+    },
+    {
+        "name": "BBQ omáčka",
+        "id": "bbq",
+        "category": "5"
+    },
+    {
+        "name": "Cukr",
+        "id": "cukr",
+        "category": "5"
+    },
+    {
+        "name": "Chilli",
+        "id": "chilli",
+        "category": "5"
+    },
+    {
+        "name": "Čokoláda",
+        "id": "cokolada",
+        "category": "5"
+    },
+    {
+        "name": "Grilovací koření",
+        "id": "grilovaci-koreni",
+        "category": "5"
+    },
+    {
+        "name": "Hoisin omáčka",
+        "id": "hoisin",
+        "category": "5"
+    },
+    {
+        "name": "Hořčice",
+        "id": "horcice",
+        "category": "5"
+    },
+    {
+        "name": "Javorový sirup",
+        "id": "javorovy-sirup",
+        "category": "5"
+    },
+    {
+        "name": "Kečup",
+        "id": "kecup",
+        "category": "5"
+    },
+    {
+        "name": "Kopr",
+        "id": "kopr",
+        "category": "5"
+    },
+    {
+        "name": "Koriandr",
+        "id": "koriandr",
+        "category": "5"
+    },
+    {
+        "name": "Majonéza",
+        "id": "majoneza",
+        "category": "5"
+    },
+    {
+        "name": "Máta",
+        "id": "mata",
+        "category": "5"
+    },
+    {
+        "name": "Med",
+        "id": "med",
+        "category": "5"
+    },
+    {
+        "name": "MSG",
+        "id": "msg",
+        "category": "5"
+    },
+    {
+        "name": "Oříšky",
+        "id": "orisky",
+        "category": "5"
+    },
+    {
+        "name": "Pálivá omáčka",
+        "id": "paliva",
+        "category": "5"
+    },
+    {
+        "name": "Pažitka",
+        "id": "pazitka",
+        "category": "5"
+    },
+    {
+        "name": "Petržel",
+        "id": "petrzel",
+        "category": "5"
+    },
+    {
+        "name": "Rybí omáčka",
+        "id": "rybi-omacka",
+        "category": "5"
+    },
+    {
+        "name": "Sójová omáčka",
+        "id": "sojova-omacka",
+        "category": "5"
+    },
+    {
+        "name": "Sezamová semínka",
+        "id": "sezam",
+        "category": "5"
+    },
+    {
+        "name": "Ústřicová omáčka",
+        "id": "ustricova-omacka",
+        "category": "5"
+    },
+    {
+        "name": "Americký sýr",
+        "id": "americky-syr",
+        "category": "6"
+    },
+    {
+        "name": "Chedar",
+        "id": "chedar",
+        "category": "6"
+    },
+    {
+        "name": "Cottage",
+        "id": "cottage",
+        "category": "6"
+    },
+    {
+        "name": "Eidam",
+        "id": "eidam",
+        "category": "6"
+    },
+    {
+        "name": "Gouda",
+        "id": "gouda",
+        "category": "6"
+    },
+    {
+        "name": "Mozzarella",
+        "id": "mozzarella",
+        "category": "6"
+    },
+    {
+        "name": "Parmezán",
+        "id": "parmezan",
+        "category": "6"
+    },
+    {
+        "name": "Ricotta",
+        "id": "ricotta",
+        "category": "6"
+    },
+    {
+        "name": "Ananas",
+        "id": "ananas",
+        "category": "7"
+    },
+    {
+        "name": "Banán",
+        "id": "banan",
+        "category": "7"
+    },
+    {
+        "name": "Borůvky",
+        "id": "boruvky",
+        "category": "7"
+    },
+    {
+        "name": "Citrón",
+        "id": "citron",
+        "category": "7"
+    },
+    {
+        "name": "Hrozny",
+        "id": "hrozny",
+        "category": "7"
+    },
+    {
+        "name": "Hruška",
+        "id": "hruska",
+        "category": "7"
+    },
+    {
+        "name": "Jablko",
+        "id": "jablko",
+        "category": "7"
+    },
+    {
+        "name": "Jahody",
+        "id": "jahody",
+        "category": "7"
+    },
+    {
+        "name": "Limetka",
+        "id": "limetka",
+        "category": "7"
+    },
+    {
+        "name": "Maliny",
+        "id": "maliny",
+        "category": "7"
+    },
+    {
+        "name": "Mandarinka",
+        "id": "mandarinka",
+        "category": "7"
+    },
+    {
+        "name": "Pomeranč",
+        "id": "pomeranc",
+        "category": "7"
+    }
+]
